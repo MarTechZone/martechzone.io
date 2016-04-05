@@ -1,6 +1,23 @@
 /vendor
 /node_modules
-/public/storage
 Homestead.yaml
-Homestead.json
 .env
+_ide_helper.php
+.tags
+tags
+
+# GULP
+gulpfile.js
+
+# PhpStorm
+.idea
+.idea/misc.xml
+
+# Sublime Text
+*.sublime-*
+
+# OS generated files
+.DS_Store*
+
+# IDE Helper
+_ide_helper.php
